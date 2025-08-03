@@ -1,4 +1,4 @@
-# 🚦 Traffic Signal Optimization using Reinforcement Learning
+# 🚦 Traffic Signal Optimization using RL
 
 An **adaptive traffic management system** that optimizes signal timings using a combination of **supervised learning** and **reinforcement learning (RL)** techniques. Built with **Python** and visualized in **Pygame**, this project dynamically adjusts traffic signals based on real-time and historical data, significantly improving traffic flow and reducing congestion.
 
@@ -87,5 +87,5 @@ After the red phase, the system initiates the green light for 3 seconds, allowin
 
 If an ambulance is detected, the system immediately overrides current signal conditions and switches to green, ensuring rapid and unobstructed passage for emergency vehicles. This occurs regardless of vehicle or pedestrian counts.
 
----
+
 
