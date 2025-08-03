@@ -2,7 +2,6 @@
 
 An **adaptive traffic management system** that optimizes signal timings using a combination of **supervised learning** and **reinforcement learning (RL)** techniques. Built with **Python** and visualized in **Pygame**, this project dynamically adjusts traffic signals based on real-time and historical data, significantly improving traffic flow and reducing congestion.
 
----
 
 ## 📖 Project Overview
 
@@ -10,7 +9,7 @@ Urban traffic congestion is one of the leading causes of time and fuel wastage. 
 
 The goal: reduce waiting times, increase throughput, and improve pedestrian safety.
 
----
+
 
 ## 🌟 Key Features
 
@@ -20,7 +19,7 @@ The goal: reduce waiting times, increase throughput, and improve pedestrian safe
 - 🌐 **Multi-agent support for future city-wide scalability**
 - 📊 **Performance metrics tracking and visual feedback**
 
----
+
 
 ## ⚙️ Methodology
 
@@ -38,7 +37,7 @@ The goal: reduce waiting times, increase throughput, and improve pedestrian safe
 - Log table displays system actions and decisions
 - Trained under diverse scenarios: peak-hour, pedestrian surges, emergencies
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -50,7 +49,7 @@ The goal: reduce waiting times, increase throughput, and improve pedestrian safe
 | Reinforcement Learning | Q-Learning        |
 | Visualization          | Pygame GUI        |
 
----
+
 
 ## 📈 Results
 
@@ -59,7 +58,7 @@ The goal: reduce waiting times, increase throughput, and improve pedestrian safe
 - 🧍‍♀️ **Improved pedestrian handling** based on density
 - 🚨 **Effective emergency vehicle prioritization**
 
----
+
 
 ## 🖼️ Screenshots
 
