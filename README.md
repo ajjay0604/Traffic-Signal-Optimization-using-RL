@@ -3,7 +3,7 @@
 ## Description
 Optimised Traffic Management System using Reinforcement Learning (RL).
 
-## Students
+## Collaborators
 - **Tejaswini MR** - 22BCE1012
 - **Sudarshan N Sankaran** - 22BCE1045
 - **Shivani S** - 22BCE1158
