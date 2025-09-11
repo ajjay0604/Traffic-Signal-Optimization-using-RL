@@ -87,4 +87,7 @@ After the red phase, the system initiates the green light for 3 seconds, allowin
 If an ambulance is detected, the system immediately overrides current signal conditions and switches to green, ensuring rapid and unobstructed passage for emergency vehicles. This occurs regardless of vehicle or pedestrian counts.
 
 
-
+---
+📌 Developed by **Ajjay Adhithya V**  
+🔗 Explore more projects on my [GitHub Profile](https://github.com/your-username)
+---
