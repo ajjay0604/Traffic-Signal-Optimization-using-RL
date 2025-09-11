@@ -88,6 +88,7 @@ If an ambulance is detected, the system immediately overrides current signal con
 
 
 ---
-📌 Developed by **Ajjay Adhithya V**  
-🔗 Explore more projects on my [GitHub Profile](https://github.com/your-username)
+👨‍💻 This repository was crafted with care by **Ajjay Adhithya V**  
+🌐 Discover more projects here → [GitHub Profile](https://github.com/ajjay0604/)
 ---
+
