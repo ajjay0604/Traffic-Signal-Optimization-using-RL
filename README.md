@@ -4,13 +4,6 @@
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement--Learning-Q--Learning-red)
 ![Visualization](https://img.shields.io/badge/GUI-Pygame-lightgrey?logo=pygame&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Research--Prototype-yellow)
-![Performance](https://img.shields.io/badge/Performance-30%25↓%20Wait%20Time-brightgreen)
-![Throughput](https://img.shields.io/badge/Throughput-25%25↑-blueviolet)
-![Pedestrians](https://img.shields.io/badge/Pedestrian--Safety-Improved-success)
-![Emergency](https://img.shields.io/badge/Emergency%20Vehicles-Prioritized-critical)
-
-
 # 🚦 Traffic Signal Optimization using RL
 
 An **adaptive traffic management system** that optimizes signal timings using a combination of **supervised learning** and **reinforcement learning (RL)** techniques. Built with **Python** and visualized in **Pygame**, this project dynamically adjusts traffic signals based on real-time and historical data, significantly improving traffic flow and reducing congestion.
