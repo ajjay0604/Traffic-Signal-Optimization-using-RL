@@ -1,3 +1,11 @@
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![🤗 Hugging Face Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-orange)](https://huggingface.co/transformers)
+[![Made with Pygame](https://img.shields.io/badge/Made%20with-Pygame-green)](https://www.pygame.org/news)
+[![Stars](https://img.shields.io/github/stars/ajjay0604/Traffic-Signal-Optimization-using-RL?style=social)](https://github.com/ajjay0604/Traffic-Signal-Optimization-using-RL/stargazers)
+
+
 # 🚦 Traffic Signal Optimization using RL
 
 An **adaptive traffic management system** that optimizes signal timings using a combination of **supervised learning** and **reinforcement learning (RL)** techniques. Built with **Python** and visualized in **Pygame**, this project dynamically adjusts traffic signals based on real-time and historical data, significantly improving traffic flow and reducing congestion.
