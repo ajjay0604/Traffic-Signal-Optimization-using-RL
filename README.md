@@ -1,8 +1,14 @@
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Made with Pygame](https://img.shields.io/badge/Made%20with-Pygame-green)](https://www.pygame.org/news)
-[![Stars](https://img.shields.io/github/stars/ajjay0604/Traffic-Signal-Optimization-using-RL?style=social)](https://github.com/ajjay0604/Traffic-Signal-Optimization-using-RL/stargazers)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-Simulation-green?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-RandomForest-orange?logo=scikitlearn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement--Learning-Q--Learning-red)
+![Visualization](https://img.shields.io/badge/GUI-Pygame-lightgrey?logo=pygame&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Research--Prototype-yellow)
+![Performance](https://img.shields.io/badge/Performance-30%25↓%20Wait%20Time-brightgreen)
+![Throughput](https://img.shields.io/badge/Throughput-25%25↑-blueviolet)
+![Pedestrians](https://img.shields.io/badge/Pedestrian--Safety-Improved-success)
+![Emergency](https://img.shields.io/badge/Emergency%20Vehicles-Prioritized-critical)
 
 
 # 🚦 Traffic Signal Optimization using RL
